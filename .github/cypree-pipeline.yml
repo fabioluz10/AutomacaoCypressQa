@@ -7,26 +7,26 @@ on:
   branches: [master]
 
 jobs:
-  cypree-run:
-  # maquina que será executada
-  # só teremos um job: rodar os testes
-  runs-on: ubuntu-latest #ultima versao do ubunto
+# o que vai ser feito nessa pipeline
+# só teremos um job: rodar os testes
+  cyprees-run:
+    # maquina que será executada
+    runs-on: ubuntu-latest #ultima versao do ubunto
 
-  # passo a passo para rodar os testes
-  steps:
-   # clone do projeto
-    - name: Checkout/Clone do projeto
-      uses: actions/checkout@v7
+    # passo a passo para rodar os testes
+    steps:
+      # clone do projeto
+      - name: Checkout/Clone do projeto
+        uses: actions/checkout@v7
 
-  #exemplo de exeucução no terminal
-    - name: Instalar dependencias do projeto
-      run: echo Fabio Luz
+      #exemplo de exeucução no terminal
+      - name: Instalar dependencias do projeto
+        run: npm install
 
-  #execução e config do projeto
-    - name: Execucao de Testes
-      uses: cypress-io/github-action@v5
-      with:
-        record: true
-
-      env:
-      CYPREE_RECORD_KEY: ${{ secrets.CYPREE_RECORD_KEY }}
+      #execução e config do projeto
+      - name: Execucao de Testes
+        uses: cypress-io/github-action@v5
+        with:
+          record: true
+        env:
+          CYPREE_RECORD_KEY: ${{ secrets.CYPREE_RECORD_KEY }}
