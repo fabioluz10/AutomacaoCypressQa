@@ -7,7 +7,7 @@ export default {
             .type(email)
     },
     preencherSenha(senha) {
-        cy.get('#passwordS')
+        cy.get('#password')
             .clear()
             .type(senha)
     },
