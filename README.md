@@ -11,7 +11,7 @@ Ao longo da minha trajetória, atuei em projetos de grande porte nos segmentos f
 Sou formado em Análise e Desenvolvimento de Sistemas e certificado CTFL (ISTQB). Gosto de unir bagagem técnica com visão prática, buscando constantemente otimizar a qualidade dos produtos.
 
 ## 🚀 Sobre este repositório 
-Este projeto é uma demonstração do meu trabalho com automação de testes, organização de cenários e integração contínua.
+Este projeto é uma "pequena" demonstração do meu trabalho com automação de testes, organização de cenários e integração contínua com framework do Cypress.
 
 ## 📌 Visão geral
 
