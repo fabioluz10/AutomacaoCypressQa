@@ -14,19 +14,25 @@ jobs:
 
   # passo a passo para rodar os testes
   steps:
-   # clone do projeto
+    # clone do projeto
     - name: Checkout/Clone do projeto
       uses: actions/checkout@v7
 
-  #exemplo de exeucução no terminal
+    # exemplo de exeucução no terminal
     - name: Instalar dependencias do projeto
       run: echo Fabio Luz
 
-  #execução e config do projeto
+    # execução e config do projeto
     - name: Execucao de Testes
       uses: cypress-io/github-action@v5
       with:
         record: true
-
       env:
       CYPREE_RECORD_KEY: ${{ secrets.CYPREE_RECORD_KEY }}
+
+    # upload do relatório do mocha
+    - name: upload relatório
+      uses: actions/upload-artifact@v7
+      with:
+        name: Relatório
+        path: cypress\reports\html
