@@ -30,7 +30,7 @@ jobs:
         with:
           record: true
         env:
-        CYPREE_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
+          CYPREES_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
 
       # upload do relatório do mocha
       - name: upload relatório
