@@ -1,6 +1,14 @@
 # Automação de Testes com Cypress, GitHub Actions e Slack
 
-Este projeto tem como objetivo automatizar cenários de cadastro e login em uma aplicação web utilizando Cypress, com foco em organização, manutenção, rastreabilidade e integração contínua.
+## Sobre mim
+
+Sou Analista de Testes de Software (QA) com mais de 11 anos de experiência, trabalhando com qualidade, automação e melhoria contínua. Foi nessa trajetória que dei meus primeiros passos na área, e hoje sigo com muita paixão por tecnologia, processos e resultados.
+
+Atuei em projetos grandes nos segmentos financeiro, de crédito e mercado de capitais, com passagem por empresas e consultorias como GFT, Keeggo, Serasa Experian, B3 e Banco Votorantim. Tenho experiência no ciclo completo de testes e também em automação com Robot Framework, Cypress, UFT, Selenium e CI/CD com GitHub Actions.
+
+Sou certificado CTFL (ISTQB) e formado em Análise e Desenvolvimento de Sistemas. Hoje, gosto de unir experiência técnica com visão prática, sempre buscando fazer as coisas com mais eficiência, qualidade e inteligência.
+
+Este projeto é uma demonstração do meu trabalho com automação de testes, organização de cenários e integração contínua.
 
 ## Visão geral
 
