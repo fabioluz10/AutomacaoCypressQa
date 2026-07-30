@@ -2,12 +2,15 @@
 
 ## Sobre mim
 
-Sou Analista de Testes de Software (QA) com mais de 11 anos de experiência, trabalhando com qualidade, automação e melhoria contínua. Foi nessa trajetória que dei meus primeiros passos na área, e hoje sigo com muita paixão por tecnologia, processos e resultados.
+Olá! Sou o Fabio Luz, Analista de Testes de Software (QA) com mais de 11 anos de experiência em qualidade, automação e melhoria contínua de processos. É um prazer ter você por aqui!
 
-Atuei em projetos grandes nos segmentos financeiro, de crédito e mercado de capitais, com passagem por empresas e consultorias como GFT, Keeggo, Serasa Experian, B3 e Banco Votorantim. Tenho experiência no ciclo completo de testes e também em automação com Robot Framework, Cypress, UFT, Selenium e CI/CD com GitHub Actions.
+Foi na área de testes que dei meus primeiros passos na tecnologia, e hoje sigo motivado por evoluir processos, garantir entregas robustas e gerar resultados com eficiência.
 
-Sou certificado CTFL (ISTQB) e formado em Análise e Desenvolvimento de Sistemas. Hoje, gosto de unir experiência técnica com visão prática, sempre buscando fazer as coisas com mais eficiência, qualidade e inteligência.
+Ao longo da minha trajetória, atuei em projetos de grande porte nos segmentos financeiro, de crédito e mercado de capitais, acumulando experiência em empresas e consultorias como GFT, Keeggo, Serasa Experian, B3 e Banco Votorantim. Tenho vivência no ciclo completo de testes (STLC) e em automação com Robot Framework, Cypress, UFT, Selenium, além de integração contínua (CI/CD) com GitHub Actions.
 
+Sou formado em Análise e Desenvolvimento de Sistemas e certificado CTFL (ISTQB). Gosto de unir bagagem técnica com visão prática, buscando constantemente otimizar a qualidade dos produtos.
+
+## Sobre este repositório 🚀
 Este projeto é uma demonstração do meu trabalho com automação de testes, organização de cenários e integração contínua.
 
 ## Visão geral
