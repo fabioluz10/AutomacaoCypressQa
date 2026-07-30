@@ -1,6 +1,6 @@
 # Automação de Testes com Cypress, GitHub Actions e Slack
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 Olá! Sou o Fabio Luz, Analista de Testes de Software (QA) com mais de 11 anos de experiência em qualidade, automação e melhoria contínua de processos. É um prazer ter você por aqui!
 
@@ -10,10 +10,10 @@ Ao longo da minha trajetória, atuei em projetos de grande porte nos segmentos f
 
 Sou formado em Análise e Desenvolvimento de Sistemas e certificado CTFL (ISTQB). Gosto de unir bagagem técnica com visão prática, buscando constantemente otimizar a qualidade dos produtos.
 
-## Sobre este repositório 🚀
+## 🚀 Sobre este repositório 
 Este projeto é uma demonstração do meu trabalho com automação de testes, organização de cenários e integração contínua.
 
-## Visão geral
+## 📌 Visão geral
 
 A automação foi estruturada com boas práticas de desenvolvimento, como:
 
@@ -27,7 +27,7 @@ A automação foi estruturada com boas práticas de desenvolvimento, como:
 - Execução agendada via Schedule
 - Integração com Slack para notificações automáticas
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - Cypress
 - JavaScript
@@ -36,7 +36,7 @@ A automação foi estruturada com boas práticas de desenvolvimento, como:
 - GitHub Actions
 - Slack
 
-## Estrutura do projeto
+## 📁 Estrutura do projeto
 
 ```text
 cypress/
@@ -54,7 +54,7 @@ cypress/
     cypress-pipeline-scheduler.yml
 ```
 
-## Cenários automatizados
+## 📋 Cenários automatizados
 
 ### Cadastro de usuário
 
@@ -77,7 +77,7 @@ Os testes cobrem cenários como:
 - Senha inválida
 - Login realizado com sucesso
 
-## Arquitetura da automação
+## 🏛️ Arquitetura da automação
 
 O projeto foi organizado com foco em manutenção e escalabilidade:
 
@@ -85,7 +85,7 @@ O projeto foi organizado com foco em manutenção e escalabilidade:
 - Os testes ficaram separados da lógica de interação com a interface
 - O código ficou mais legível, reutilizável e fácil de evoluir
 
-## Como executar localmente
+## 💻 Como executar localmente
 
 ### Pré-requisitos
 
@@ -110,7 +110,7 @@ npm test
 npm run cypress:open
 ```
 
-## Relatórios e evidências
+## 📊 Relatórios e evidências
 
 Os relatórios gerados pelos testes ficam armazenados em:
 
@@ -124,7 +124,7 @@ Além disso, o projeto também gera:
 - vídeos da execução
 - artefatos salvos no GitHub Actions para análise posterior
 
-## Pipeline CI/CD
+## ⚙️ Pipeline CI/CD
 
 A pipeline foi configurada no GitHub Actions para executar os testes automaticamente em um ambiente de integração contínua.
 
@@ -151,7 +151,7 @@ Isso permite:
 - maior visibilidade para a equipe
 
 
-## Próximos passos
+## 🔮 Próximos passos
 
 Algumas melhorias que podem ser adicionadas no futuro:
 
