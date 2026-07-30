@@ -5,7 +5,7 @@ name: Execução de Testes Basicos - Scheduler
 on:
   schedule:
     - cron: '0 7,14,16,17,20 * * 1-6'    
-git     
+    
 jobs:
   cypress-run:
     # maquina que será executada
