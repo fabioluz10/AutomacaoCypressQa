@@ -1,17 +1,18 @@
 # Automação de Testes com Cypress, GitHub Actions e Slack
 
-## 👨‍💻 Sobre mim
+## 👋 Sobre mim
 
-Olá! Sou o Fabio Luz, Analista de Testes de Software (QA) com mais de 11 anos de experiência em qualidade, automação e melhoria contínua de processos. É um prazer ter você por aqui!
+Olá! Sou o Fabio, analista de testes e apaixonado por tecnologia e qualidade de software. 
 
-Foi na área de testes que dei meus primeiros passos na tecnologia, e hoje sigo motivado por evoluir processos, garantir entregas robustas e gerar resultados com eficiência.
+Criei este repositório para compartilhar um pouco da minha prática diária com automação de testes e integração contínua. Seja muito bem-vindo(a)!
 
-Ao longo da minha trajetória, atuei em projetos de grande porte nos segmentos financeiro, de crédito e mercado de capitais, acumulando experiência em empresas e consultorias como GFT, Keeggo, Serasa Experian, B3 e Banco Votorantim. Tenho vivência no ciclo completo de testes (STLC) e em automação com Robot Framework, Cypress, UFT, Selenium, além de integração contínua (CI/CD) com GitHub Actions.
+---
 
-Sou formado em Análise e Desenvolvimento de Sistemas e certificado CTFL (ISTQB). Gosto de unir bagagem técnica com visão prática, buscando constantemente otimizar a qualidade dos produtos.
+## 🚀 Sobre este projeto
 
-## 🚀 Sobre este repositório 
-Este projeto é uma "pequena" demonstração do meu trabalho com automação de testes, organização de cenários e integração contínua com framework do Cypress.
+Este repositório é uma demonstração prática de automação de testes de ponta a ponta utilizando **Cypress**. 
+
+O objetivo principal aqui é exercitar boas práticas de escrita de testes, organização de cenários com *Page Object Model* (POM) e a construção de uma pipeline de CI/CD integrada ao **GitHub Actions** com notificações via **Slack**.
 
 ## 📌 Visão geral
 
